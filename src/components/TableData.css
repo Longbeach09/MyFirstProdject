@@ -1,0 +1,25 @@
+table td {
+    font-size: 1rem;
+    width: 100px;
+    height: 60px;
+    
+    color: wheat
+  }
+  
+  table td:nth-child(2) {
+    max-width: 4000px;
+    width: 750px;
+    overflow-wrap: break-word;
+  }
+
+  table td:nth-child(1) {
+    max-width: 4000px;
+    width: 350px;
+    overflow-wrap: break-word;
+  }
+
+  table td:nth-child(3) {
+    max-width: 4000px;
+    width: 350px;
+    overflow-wrap: break-word;
+  }
